@@ -1,0 +1,13 @@
+Image Encryption Tool
+
+This is a basic image encryption and decryption tool built with Python using the Pillow library.
+
+ Features:
+
+Encrypts an image using:
+
+XOR operation on each pixel
+
+Pixel shuffling
+
+Decrypts the image back to its original form
